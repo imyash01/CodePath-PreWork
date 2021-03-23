@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![win](g.recordit.co/9d3mTvV2Fu.gif)
-![loss](g.recordit.co/Vfy78qwQiU.gif)
+![win](win.gif)
+![loss](loss.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
